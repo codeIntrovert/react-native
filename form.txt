@@ -1,1 +1,167 @@
+Employee Job Satisfaction Questionnaire
+
+
+Section A: Demographic Information
+1.	Age:
+o	 Under 25
+o	 25-34
+o	 35-44
+o	 45-54
+o	 55+
+
+2.	Gender:
+•	 Male
+•	 Female
+•	 Non-binary
+•	 Prefer not to say
+
+3.	 Job Title:
+•	____________________
+
+4.	Department:
+•	____________________
+
+5.	Years of Service:
+o	 Less than 1 year
+o	 1-3 years
+o	 4-6 years
+o	 7-10 years
+o	 More than 10 years
+Section B: Compensation and Benefits
+6.	How satisfied are you with your salary?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+7.	How satisfied are you with the benefits provided by the company (e.g., health insurance, retirement plans)?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+Section C: Work Environment
+8.	How would you rate the overall culture of the workplace?
+o	 Very poor
+o	 Poor
+o	 Neutral
+o	 Good
+o	 Excellent
+
+9.	How satisfied are you with the physical conditions of your workplace (e.g., cleanliness, safety, comfort)?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+Section D: Work-Life Balance
+10.	How satisfied are you with your work-life balance?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+11.	How do you feel about the flexibility of your working hours?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+Section E: Career Development
+12.	How satisfied are you with the training and development opportunities provided by the company?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+13.	How clear is the career progression path in your organization?
+o	 Very unclear
+o	 Unclear
+o	 Neutral
+o	 Clear
+o	 Very clear
+
+14.	How well do the company’s policies support your well-being and professional growth?
+•	 Very Poorly
+•	 Poorly
+•	 Neutral
+•	 Well
+•	 Very Well
+
+Section F: Recognition and Reward
+15.	How often do you feel your achievements are recognized?
+o	 Never
+o	 Rarely
+o	 Sometimes
+o	 Often
+o	 Always
+
+16.	How satisfied are you with the rewards and incentives provided by the company?
+o	 Very dissatisfied
+o	 Dissatisfied
+o	 Neutral
+o	 Satisfied
+o	 Very satisfied
+
+Section G: Management and Leadership
+17.	How supportive do you find your managers?
+•	 Very unsupportive
+•	 Unsupportive
+•	 Neutral
+•	 Supportive
+•	 Very supportive
+
+Section H: Interpersonal Relationships
+18.	How would you describe your relationship with your colleagues?
+o	 Very Poor
+o	 Poor
+o	 Neutral
+o	 Good
+o	 Excellent
+
+19.	How strong is the sense of teamwork and collaboration in your department?
+•	 Very weak
+•	 Weak
+•	 Neutral
+•	 Strong
+•	 Very strong
+
+Section I: Psychological and Personal Factors
+20.	How motivated are you to perform well in your job?
+o	 Not at All
+o	 Slightly
+o	 Neutral
+o	 Motivated
+o	 Very Motivated
+
+21.	Do your personal goals align with your job roles and responsibilities?
+o	 Not at All
+o	 Slightly
+o	 Neutral
+o	 Well
+o	 Very Well
+
+22.	How manageable do you find your stress levels at work?
+o	 Very Unmanageable
+o	 Unmanageable
+o	 Neutral
+o	 Manageable
+o	 Very Manageable
+
+23.	Do you have sufficient support systems at work to handle stress?
+o	 Not at All
+o	 Slightly
+o	 Neutral
+o	 Adequately
+o	 Very Adequately
+
+Additional Comments
+24.	Do you have any additional comments or suggestions to improve job satisfaction within the company?
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
