@@ -1,4 +1,10 @@
 Sure, here's a comprehensive questionnaire based on the factors affecting employee job satisfaction:
+```
+add google form scale
+1: very disastisfied
+2: very satisfired
+```
+
 
 ### Employee Job Satisfaction Questionnaire
 
